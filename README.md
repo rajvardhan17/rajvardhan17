@@ -19,7 +19,9 @@ Hey 👋 I'm Rajvardhan<br><br>Full Stack Developer | React • Vue • Java Ser
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajvardhan17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan17&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan17&layout=compact&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajvardhan17&icon=2&color=13)](https://visitcount.itsvg.in)
