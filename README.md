@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on
+#  🔭 I’m currently working on
 
 Backend-focused projects using Java & Python
 
@@ -7,7 +6,7 @@ Full-stack web applications with the MERN stack
 
 Growing my AI automation brand Intellectium
 
-👯 I’m looking to collaborate on
+# 👯 I’m looking to collaborate on
 
 Open-source Java or Python projects
 
@@ -15,7 +14,7 @@ MERN stack applications
 
 AI automation tools and productivity systems
 
-🤝 I’m looking for help with
+# 🤝 I’m looking for help with
 
 Advanced Spring Boot & system design
 
@@ -23,7 +22,7 @@ Writing production-level backend code
 
 Contributing effectively to large open-source projects
 
-🌱 I’m currently learning
+# 🌱 I’m currently learning
 
 Advanced Spring Boot
 
@@ -33,7 +32,7 @@ Scalable backend architecture
 
 AI tool integrations using Python
 
-💬 Ask me about
+# 💬 Ask me about
 
 Java & OOP concepts
 
@@ -43,7 +42,7 @@ Backend development roadmap
 
 Getting started with AI automation tools
 
-⚡ Fun fact
+#⚡ Fun fact
 
 I’m building my tech career while simultaneously creating an AI-focused brand — blending development with automation 🚀
 
