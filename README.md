@@ -1,5 +1,51 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Backend-focused projects using Java & Python<br><br>Full-stack web applications with the MERN stack<br><br>Growing my AI automation brand Intellectium<br><br>👯 I’m looking to collaborate on<br><br>Open-source Java or Python projects<br><br>MERN stack applications<br><br>AI automation tools and productivity systems<br><br>🤝 I’m looking for help with<br><br>     Advanced Spring Boot & system design<br><br>     Writing production-level backend code<br><br>     Contributing effectively to large open-source projects<br><br>🌱 I’m currently learning<br><br>      Advanced Spring Boot<br><br>     Data Structures & Algorithms for interviews<br><br>     Scalable backend architecture<br><br>     AI tool integrations using Python<br><br>💬 Ask me about<br><br>     Java & OOP concepts<br><br>     MERN stack basics<br><br>     Backend development roadmap<br><br>     Starting with AI automation tools<br><br>⚡ Fun fact<br.     I’m building my tech career while simultaneously creating an AI-focused brand — blending development with automation 🚀
+🔭 I’m currently working on
+
+Backend-focused projects using Java & Python
+
+Full-stack web applications with the MERN stack
+
+Growing my AI automation brand Intellectium
+
+👯 I’m looking to collaborate on
+
+Open-source Java or Python projects
+
+MERN stack applications
+
+AI automation tools and productivity systems
+
+🤝 I’m looking for help with
+
+Advanced Spring Boot & system design
+
+Writing production-level backend code
+
+Contributing effectively to large open-source projects
+
+🌱 I’m currently learning
+
+Advanced Spring Boot
+
+Data Structures & Algorithms for interviews
+
+Scalable backend architecture
+
+AI tool integrations using Python
+
+💬 Ask me about
+
+Java & OOP concepts
+
+MERN stack fundamentals
+
+Backend development roadmap
+
+Getting started with AI automation tools
+
+⚡ Fun fact
+
+I’m building my tech career while simultaneously creating an AI-focused brand — blending development with automation 🚀
 
 
 ## 🌐 Socials:
